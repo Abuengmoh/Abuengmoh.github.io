@@ -10,3 +10,5 @@ This Project was carried out to analyze Energy consumption in London
 This Project was carried out to analyse the sales of different ADIDAS Products accross various states in the US.
 
 ![ADIDASIMAGE](ADIDASIMAGE.PNG)
+
+[Project 3:COOKIES SALES ANALYSIS]
