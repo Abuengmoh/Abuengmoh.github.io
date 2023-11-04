@@ -12,3 +12,6 @@ This Project was carried out to analyse the sales of different ADIDAS Products a
 ![ADIDASIMAGE](ADIDASIMAGE.PNG)
 
 [Project 3:COOKIES SALES ANALYSIS](https://github.com/Abuengmoh/Abuengmoh.github.io/tree/main)
+
+This Project was carried out to analyse the sales of the different varieties of cookies across a number of countries within the year
+
