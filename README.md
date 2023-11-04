@@ -15,3 +15,4 @@ This Project was carried out to analyse the sales of different ADIDAS Products a
 
 This Project was carried out to analyse the sales of the different varieties of cookies across a number of countries within the year
 
+![cookiespic](cookiespic.PNG)
